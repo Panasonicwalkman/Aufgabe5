@@ -1,0 +1,5 @@
+1 GET dient zum Abrufen.
+2 POST erstellt neue Inhalte.
+3 Statuscodes zeigen Fehler oder Erfolg an.
+4 HTML strukturiert Webseiten im Internet.
+5 HTTP regelt die Kommunikation im Web.
